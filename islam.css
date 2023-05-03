@@ -9,6 +9,7 @@ header{
 }
 
 header h1 {
+	text-align: center;
 	color: goldenrod;
 	font-size: 50px;
 
@@ -30,10 +31,10 @@ main ol b{
 }
 
 
-h1{
+h1{text-align: center;
 	color: goldenrod;
 }
-h2{
+h2{text-align: center;
 	color: goldenrod;
 	font-size: 30px;
 }
