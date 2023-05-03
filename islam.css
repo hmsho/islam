@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	background-color: navajowhite;
+	font-family: ;
+}
+
+header{
+	text-align: center;
+}
+
+header h1 {
+	color: goldenrod;
+	font-size: 50px;
+
+}
+header img{
+	border-radius: 60px;
+	width: 500px;
+	border: 10px solid goldenrod;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+
+	
+}
+
+main ol b{
+	color: goldenrod;
+}
+
+
+h1{
+	color: goldenrod;
+}
+h2{
+	color: goldenrod;
+	font-size: 30px;
+}
+
+a{
+	color: brown;
+
+}
+
+main img{
+	max-width: 100%;
+}
+footer {
+	text-align: center;
+	margin: 0 auto;
+	
+}
