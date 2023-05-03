@@ -31,10 +31,12 @@ main ol b{
 }
 
 
-h1{text-align: center;
+h1{
+	text-align: center;
 	color: goldenrod;
 }
-h2{text-align: center;
+h2{
+	text-align: center;
 	color: goldenrod;
 	font-size: 30px;
 }
